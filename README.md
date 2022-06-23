@@ -63,3 +63,8 @@ Para que o usuário não insira letras ou outros caracteres, o método foi coloc
           }
           return soma;
       }
+
+
+* Este programa foi resultado de um desafio do curso de Desenvolvimento de Software em Java
+[Curso developer TI - Full stack](https://www.devtisul.com.br/) 
+* Você pode acompanhar meu progresso em [Course Java Developer TI](https://github.com/fernandorebelo/curso-developer-ti-java).
